@@ -1,0 +1,2 @@
+django-translation-example
+==========================
